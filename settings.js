@@ -3,10 +3,10 @@ const fs = require("fs")
 
 //aumto presence update
 global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.autoblockmorroco = false //auto block 212 (true to on, false to off)
 global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
-global.antispam = false //auto kick spammer (true to on, false to off)
+global.antispam = true //auto kick spammer (true to on, false to off)
 
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
@@ -35,7 +35,7 @@ global.ownername = 'ᬊ͜͡🥀⃞⃕𝙏𝞗𝙂𝞢᳀𝞘𝞜𝙐𝞛𝞓𝞙
 global.ownerNumber = ["24105621021@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = ""
+global.wagc = "https://chat.whatsapp.com/LTnuSnWQPqWBBi9bwejYm4"
 global.themeemoji = '🪀'
 global.wm = "LUFFY Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
