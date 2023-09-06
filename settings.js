@@ -29,7 +29,7 @@ global.socialm = "GitHub: Naruto012345678" //ur github or insta name
 global.location = "Gabon,libreville,Nzeng ayons" //ur location
 
 //new
-global.botname = "LUFFY"
+global.botname = "᚛M๏𝓷keℽ D Lบffy᚜"
 global.ownernumber = '24105621021'
 global.ownername = 'ᬊ͜͡🥀⃞⃕𝙏𝞗𝙂𝞢᳀𝞘𝞜𝙐𝞛𝞓𝞙𝞘༒︎'
 global.ownerNumber = ["24105621021@s.whatsapp.net"]
@@ -39,7 +39,7 @@ global.wagc = "https://chat.whatsapp.com/LTnuSnWQPqWBBi9bwejYm4"
 global.themeemoji = '🪀'
 global.wm = "LUFFY Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
-global.packname = "LUFFY"
+global.packname = "᚛M๏𝓷keℽ D Lบffy᚜"
 global.author = "ᬊ͜͡🥀⃞⃕𝙏𝞗𝙂𝞢᳀𝞘𝞜𝙐𝞛𝞓𝞙𝞘༒︎"
 global.creator = "24105621021@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
